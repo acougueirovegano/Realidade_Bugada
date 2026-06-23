@@ -30,3 +30,5 @@ Impeça que os esqueletos cheguem até a rainha.
 
 Criadores
 Kaio Bezerra Santos , Rafael, Eduardo
+
+Referencias: Projeto baseado em Knighthood
